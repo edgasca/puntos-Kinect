@@ -1,7 +1,4 @@
-/*Universidad de Guanajuato. DICIS
-Alumno: Eduardo de Jesus Gasca Laguna.
-Docente: Dra. Dora Luz Almanza Ojeda.
-Proyecto Final. Programacion en ingenieria.*/
+/*Author: Eduardo de Jesús Gasca Laguna.*/
 
 #include <stdio.h>
 #include <stdlib.h>
